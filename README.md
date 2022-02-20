@@ -7,3 +7,4 @@ This repository of Jupyer Notebooks detail the working solutions and various app
 1. Cracking the Coding Interview -  `/ctci`
 2. LeetCode - `/lc`
 3. Random sources - `/random`
+4. Cassido - `/cassido`
